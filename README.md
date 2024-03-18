@@ -39,11 +39,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon/sonarqube/sonarqube-original.svg" height="40" alt="sonarqube logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="40" alt="sonarqube logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon/openssl/openssl-original.svg" height="40" alt="openssl logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openssl/openssl-original.svg" height="40" alt="openssl logo"  />
 </div>
 
 ###
